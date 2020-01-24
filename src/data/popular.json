@@ -1,0 +1,43 @@
+[
+  {
+    "Codename": "Superman",
+    "name": "Clark Kent",
+    "firstAppearance": "March 1960"
+  },
+
+  {
+    "Codename": "Wonderwoman",
+    "name": "Diana Prince",
+    "firstAppearance": "March 1960"
+  },
+
+  {
+    "Codename": "Batman",
+    "name": "Bruce Wayne",
+    "firstAppearance": "March 1939"
+  },
+
+  {
+    "Codename": "Green Lantern",
+    "name": "John Stewart",
+    "firstAppearance": "December 1971"
+  },
+
+  {
+    "Codename": "Vixen",
+    "name": "Mari Jiwe McCabe",
+    "firstAppearance": "July 1981"
+  },
+
+  {
+    "Codename": "Captain Marvel",
+    "name": "Billy Batson",
+    "firstAppearance": "February 1940"
+  },
+
+  {
+    "Codename": "Zatanna",
+    "name": "Zatanna Zatara",
+    "firstAppearance": "November 1964"
+  }
+]
