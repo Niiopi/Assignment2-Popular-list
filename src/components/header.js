@@ -11,8 +11,8 @@ export class header extends Component {
 }
 
 const headerStyle = {
-  maxWidth: '50%',
-  borderBottom: '1px solid darkgray'
+  maxWidth: "35%",
+  margin: "auto"
 }
 
 export default header
