@@ -76,12 +76,14 @@ class PopularList extends Component {
   }
 
   voteChange = (idNum) => {
-    this.state.memberList.map(e => {
+    const newList = this.state.memberList.map(e => {
       if (e.id === parseInt(idNum)) {
         e.vote = e.vote + 1;
       }
+      return e;
     })
-    this.setState(this.state.memberList)
+    newList.sort((a,b)=>{return b.vote-a.vote});
+    this.setState({memberList : newList})
   }  
 
 
